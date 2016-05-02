@@ -1,8 +1,6 @@
 #Ressources FLEX
 A curated list of flexbox ressources
 
-https://www.dropbox.com/s/iqlyhh8slbvnv14/FLEX.zip
-
 CSS Flexible Box Layout Module Level 1 -> [https://drafts.csswg.org/css-flexbox-1/]()
 
 A Complete Guide to Flexbox | CSS-Tricks -> [https://css-tricks.com/snippets/css/a-guide-to-flexbox/]()
